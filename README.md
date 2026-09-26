@@ -2,7 +2,6 @@
 
 # Autor: Henrique Tamaki
 
-
 # Churn Prediction - E-commerce
 
 Modelo de Machine Learning para identificar clientes com risco de cancelamento (*churn*) em um aplicativo de e-commerce.
@@ -14,6 +13,18 @@ O projeto compara **KNN** e **Árvore de Decisão** e recomenda o modelo mais ad
 Prever quais clientes podem cancelar ou deixar de comprar para que a empresa possa agir antes do cancelamento, por exemplo, com um cupom de retenção.
 
 Neste projeto, o **Falso Negativo** é considerado o erro mais prejudicial, pois representa um cliente em risco que não foi identificado.
+
+## Desafio de Negócio
+
+O que custa mais caro para o aplicativo: dar um cupom de desconto para quem já ia continuar comprando normalmente (Falso Positivo) ou perder um cliente em definitivo sem tentar retê-lo (Falso Negativo)?
+
+## Referencias
+- https://github.com/henriquetamaki-max/ML_ecommerce_churn.git
+- https://youtu.be/SHoZKEbG4Us
+- Dataset original: https://drive.google.com/file/d/1Nbmt6Y_P1TjdFxsfTxfKQxKLkaNDJrT9/view?usp=sharing
+
+
+Baixado e salvo em: dados/E Commerce Dataset - E Comm.csv
 
 ## Dados
 
