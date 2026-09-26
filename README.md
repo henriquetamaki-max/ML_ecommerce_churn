@@ -19,8 +19,8 @@ Neste projeto, o **Falso Negativo** é considerado o erro mais prejudicial, pois
 O que custa mais caro para o aplicativo: dar um cupom de desconto para quem já ia continuar comprando normalmente (Falso Positivo) ou perder um cliente em definitivo sem tentar retê-lo (Falso Negativo)?
 
 ## Referencias
-- Github Repositorio: https://github.com/henriquetamaki-max/ML_ecommerce_churn.git
-- Video explicativo projeto: https://youtu.be/SHoZKEbG4Us
+- https://github.com/henriquetamaki-max/ML_ecommerce_churn.git
+- https://youtu.be/SHoZKEbG4Us
 - Dataset original: https://drive.google.com/file/d/1Nbmt6Y_P1TjdFxsfTxfKQxKLkaNDJrT9/view?usp=sharing
 
 
